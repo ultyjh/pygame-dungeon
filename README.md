@@ -1,6 +1,6 @@
 # pygame-dungeon
 
-<h2> dungeon </h2>
+<h2> D U N G E O N </h2>
 <img src = "https://github.com/ultyjh/pygame-dungeon/blob/master/Capture%20title%20screen.PNG">
 <p> this game is set in a dungeon. beat each level to escape! </p>
 <img src = "https://github.com/ultyjh/pygame-dungeon/blob/master/Capture%20lvl%201.PNG">
