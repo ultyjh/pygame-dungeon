@@ -8,3 +8,4 @@
 <p> collect all three of the keys while avoiding the fire </p>
 <img src = "https://github.com/ultyjh/pygame-dungeon/blob/master/Capture%20lvl%203.PNG">
 <p> collect all three of the keys while avoiding the dragons and spikes </p>
+align = "left"
